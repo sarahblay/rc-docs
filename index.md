@@ -8,7 +8,7 @@ permalink: /
 
 # Heading 1
 
-[View it on GitHub](https://researchcommons.library.ubc.ca/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View on GitHub](https://github.com/ubcresearchcommons/rc-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
