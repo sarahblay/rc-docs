@@ -16,7 +16,7 @@ Please save yourself the stress of mid-workshop failure and use the HDMI or VGA 
   
 ## Where can I find the adapters?
 They are in the marked cupboard in Room 545 in Koerner Library:
-![](https://github.com/ubcresearchcommons/rc-docs/blob/master/assets/images/wherearetheadapters.png) 
+![](https://github.com/ubcresearchcommons/rc-docs/assets/images/wherearetheadapters.png) 
 
 # Using the Microphones
 For both the handheld and lapel mics, you need to find the secret ON button to make them work.
