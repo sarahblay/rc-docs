@@ -13,7 +13,7 @@ Please save yourself the stress of mid-workshop failure and use the HDMI or VGA 
 ![](/assets/images/Thunderbolt%203%20to%20HDMI.png)
 <img src="/assets/images/Thunderbolt%203%20to%20HDMI.png" alt="">
 
-![](/assets/images/vgathunderbolt2.png)
+![](../assets/images/vgathunderbolt2.png)
   
 ## Where can I find the adapters?
 They are in the marked cupboard in Room 545 in Koerner Library:
