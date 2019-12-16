@@ -28,7 +28,7 @@ Both microphones for the Presentation Room are stored in the cupboard in Room 54
 1. Twist the body of the mic to the left to loosen. Once loose, pull the handle shell down to reveal the buttons.<br>
 ![](https://github.com/ubcresearchcommons/rc-docs/blob/master/assets/images/handheldextension.jpg)
 2. The ON/OFF button is the tiny grey button closest to the bottom of the controls.
-![](https://github.com/ubcresearchcommons/rc-docs/blob/master/assets/images/handheld_buttons.jpg)
+![](assets/images/handheld_buttons.jpg)
 
 ## Accessing ON button for lapel mic:
 1. Unlatch the release buttons on both sides of the unit simultaneously to release the front door. The image shows the release button on one side.
