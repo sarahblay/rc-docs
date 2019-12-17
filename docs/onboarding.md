@@ -6,7 +6,8 @@ nav_order: 2
 # GAA on-boarding checklist
 Welcome aboard! Here are the logistical things we need to take care of with you.
 ### Items:
-1. \[    \] You have completed all paperwork for payroll and HR:  **Note**: Submit originals to Library HR. Submit copies of everything except for Direct Deposit Form to Aprille.  
+1. \[    \] You have completed all paperwork for payroll and HR:  
+**Note**: Submit originals to Library HR. Submit copies of everything except for Direct Deposit Form to Aprille.  
  
    - \[    \] \[    \] Student Hiring GAA Form **OR** WorkLearn (WL Research Assistant) Form
    - \[    \] \[    \] KS1 Form-UBC Library Authorization Form
