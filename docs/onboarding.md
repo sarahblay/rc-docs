@@ -6,7 +6,13 @@ nav_order: 2
 # GAA on-boarding checklist
 Welcome aboard! Here are the logistical things we need to take care of for you.
 ### Items:
-1. \[    \] You have completed all paperwork for HR including online courses with certificates.
+1. \[    \] You have completed all paperwork for payroll and HR:
+   - Student Hiring GAA Form **OR** WorkLearn (WL Research Assistant) Form
+   - KS1 Form-UBC Library Authorization Form
+   - Personal Data Form
+   - Direct Deposit Form (for payroll)-only required if new employee
+   - **Foreign Students only**-Study permit (VISA) and SIN 
+     - if you do not yet have a SIN, you must apply immediately
 1. \[    \] You have received site specific safety training for Koerner Library and completed the signed form for HR.
 1. \[    \] You have reviewed the payroll procedures with UBC Library Research Commons staff and UBC Library Research Commons Librarian (for hour allotments).
 1. \[    \] You are set up on research.commons@ubc.ca email. (You will be able to access it from your mail.ubc.ca webmail account with your CWL.) 
