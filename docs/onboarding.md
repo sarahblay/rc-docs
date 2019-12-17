@@ -19,8 +19,8 @@ Welcome aboard! Here are the logistical things we need to take care of for you.
 1. You know when your consults will be when training is complete.
 1. You know when your workshops are.
 1. You have had a site tour of Koerner Library including:
-  -Koerner 4th and 5th floors
-  -Koerner Staff Room 545 - including loaner laptops, adapters, mics etc.
-  -Koerner Consult Rooms
-  -Koerner Presentation Room
-  -Koerner Room 217 where applicable
+   -Koerner 4th and 5th floors
+   -Koerner Staff Room 545 - including loaner laptops, adapters, mics etc.
+   -Koerner Consult Rooms
+   -Koerner Presentation Room
+   -Koerner Room 217 where applicable
