@@ -28,7 +28,7 @@ Welcome aboard! Here are the logistical things we need to take care of with you.
 
 For help with these items, contact the UBC Library Research Commons Program Coordinator.
 
-1. \[    \] Be added to the research.commons@ubc.ca email so you can see this Inbox when you login to webmail with your CWL.
+1. \[    \] Be added to the [research.commons@ubc.ca](research.commons@ubc.ca) email so you can see this Inbox when you login to webmail with your CWL.
 1. \[    \] You have access to all necessary rooms on floor 4 and 5 of Koerner Library.
 1. \[    \] An existing staff member has reviewed the use of Woodward B25 with you.
 1. \[    \] Your Workspace 2.0 account is set up.
