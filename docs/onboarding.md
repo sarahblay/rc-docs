@@ -7,12 +7,14 @@ nav_order: 2
 Welcome aboard! Here are the logistical things we need to take care of for you.
 ### Items:
 1. \[    \] You have completed all paperwork for payroll and HR:
+</br>  **Note**: Submit originals to Library HR. Submit copies of everything except for Direct Deposit Form to Aprille.
+</br>
    - \[    \] \[    \]Student Hiring GAA Form **OR** WorkLearn (WL Research Assistant) Form
    - \[    \] \[    \]KS1 Form-UBC Library Authorization Form
    - \[    \] \[    \]Personal Data Form
    - \[    \] Direct Deposit Form (for payroll)-only required if new employee
    - \[    \] \[    \] **Foreign Students only**-Study permit (VISA) and SIN 
-     - if you do not yet have a SIN, you must apply immediately. Service Canada instantly gives you a letter confirming you applied for SIN. You must submit this to Library HR while you wait for your SIN to arrive.</br>  **Note**: Submit originals to Library HR. Submit copies of everything except for Direct Deposit Form to Aprille.
+     - if you do not yet have a SIN, you must apply immediately. Service Canada instantly gives you a letter confirming you applied for SIN. You must submit this to Library HR while you wait for your SIN to arrive.
      
 1. \[    \] You have received site specific safety training for Koerner Library and completed the signed form for HR.
 1. \[    \] You have reviewed the payroll procedures with UBC Library Research Commons staff and UBC Library Research Commons Librarian (for hour allotments).
