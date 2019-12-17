@@ -11,7 +11,7 @@ nav_order: 2
 Please do not use Air Media to present workshops in the Presentation Room. It is failing more often than it is not failing and IT and others have already explained that the technology is not reliable enough for this purpose. 
 Please save yourself the stress of mid-workshop failure and use the HDMI or VGA connectors. If you do not have a VGA or HDMI output on your laptop, please go to Room 497A (Map Printer Room) and borrow one of the two adapters shown below. 
 
-![](../assets/images/Thunderbolt%203%20to%20HDMI.png)
+![](../assets/images/Thunderbolt 3 to HDMI.png)
 
 
 ![](../assets/images/vgathunderbolt2.png)
