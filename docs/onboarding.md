@@ -6,7 +6,7 @@ nav_order: 2
 # GAA on-boarding checklist
 Welcome aboard! Here are the logistical things we need to take care of with you.
 ### Items:
-1. \[    \] You have completed all paperwork for payroll and HR:</br>**Note**: Submit originals to Library HR. Submit copies of everything except for Direct Deposit Form to Aprille.</br>
+1. \[    \] You have completed all paperwork for payroll and HR: </br> **Note**: Submit originals to Library HR. Submit copies of everything except for Direct Deposit Form to Aprille.</br>
  
    - \[    \] \[    \] Student Hiring GAA Form **OR** WorkLearn (WL Research Assistant) Form
    - \[    \] \[    \] KS1 Form-UBC Library Authorization Form
@@ -16,8 +16,8 @@ Welcome aboard! Here are the logistical things we need to take care of with you.
      - if you do not yet have a SIN, you must apply immediately. Service Canada instantly gives you a letter confirming you applied for SIN. You must submit this to Library HR while you wait for your SIN to arrive.
 1. \[    \] You have completed all required online certificates and the Site Specific Training form for Koerner Library:</br>
   - \[    \] \[    \] **LIVE** Koerner Library Site specific Safety Checklist (after having site specific safety training).
-   - \[    \] \[    \] **ONLINE** [New Worker Safety Training - Part 1 and 2](https://www.hse2.ubc.ca/moodle/course/index.php?categoryid=7)
-   - \[    \] \[    \] **ONLINE** [Preventing and Addressing Workplace Bullying & Harassment (B&H)](https://www.hse2.ubc.ca/moodle/course/index.php?categoryid=6)
+  - \[    \] \[    \] **ONLINE** [New Worker Safety Training - Part 1 and 2](https://www.hse2.ubc.ca/moodle/course/index.php?categoryid=7)
+  - \[    \] \[    \] **ONLINE** [Preventing and Addressing Workplace Bullying & Harassment (B&H)](https://www.hse2.ubc.ca/moodle/course/index.php?categoryid=6)
   - \[    \] \[    \] **ONLINE** [Violence in the Workplace](https://www.hse2.ubc.ca/moodle/course/index.php?categoryid=13)
   - \[    \] \[    \] **ONLINE** [Privacy Matters Training](https://privacymatters.ubc.ca/fundamentals-training)
  
