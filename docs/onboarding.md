@@ -16,10 +16,10 @@ Welcome aboard! Here are the logistical things we need to take care of with you.
      - if you do not yet have a SIN, you must apply immediately. Service Canada instantly gives you a letter confirming you applied for SIN. You must submit this to Library HR while you wait for your SIN to arrive.
 1. \[    \] You have completed all required online certificates and the Site Specific Training form for Koerner Library:</br>
   - \[    \] \[    \] **LIVE** Koerner Library Site specific Safety Checklist (after having site specific safety training).
-   - \[    \] \[    \] **ONLINE** KS1 Form-UBC Library Authorization Form
-   - \[    \] \[    \] **ONLINE** KS1 Form-UBC Library Authorization Form
-  - \[    \] \[    \] **ONLINE** KS1 Form-UBC Library Authorization Form
-  - \[    \] \[    \] **ONLINE** KS1 Form-UBC Library Authorization Form
+   - \[    \] \[    \] **ONLINE** New Worker Safety Training - Part 1 and 2 (https://www.hse2.ubc.ca/moodle/course/index.php?categoryid=7)
+   - \[    \] \[    \] **ONLINE** Preventing and Addressing Workplace Bullying & Harassment (B&H) (https://www.hse2.ubc.ca/moodle/course/index.php?categoryid=6)
+  - \[    \] \[    \] **ONLINE** Violence in the Workplace (https://www.hse2.ubc.ca/moodle/course/index.php?categoryid=13)
+  - \[    \] \[    \] **ONLINE** Privacy Matters Training (https://privacymatters.ubc.ca/fundamentals-training)
  
 1. \[    \] You have reviewed the payroll procedures with UBC Library Research Commons staff and UBC Library Research Commons Librarian (for hour allotments).
 1. \[    \] You are set up on research.commons@ubc.ca email. (You will be able to access it from your mail.ubc.ca webmail account with your CWL.) 
