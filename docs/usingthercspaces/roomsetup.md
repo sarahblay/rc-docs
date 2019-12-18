@@ -2,6 +2,7 @@
 layout: default
 title: Room setup
 nav_order: 2
+parent:usingthercspaces
 ---
 
 # Room Setup
