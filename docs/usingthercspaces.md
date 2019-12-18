@@ -3,7 +3,7 @@ layout: default
 title: Using the spaces in the Research Commons
 nav_order: 4
 has_children: true
-permalink: /docs/usingthespaces
+permalink: docs/usingthespaces
 ---
 
 # Using the spaces in the Research Commons
