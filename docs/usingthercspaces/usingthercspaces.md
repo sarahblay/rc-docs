@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Using the spaces in the Research Commons
+title: Working with the UBC Libraray Research Commons
 nav_order: 4
 has_children: true
 permalink: docs/usingthespaces
 ---
 
-# Using the spaces in the Research Commons
+# Working with the UBC Libraray Research Commons
 {: .no_toc }
 
 These pages are meant for anyone using the Research Commons spaces on the 4th and 5th floors of the Koerner Library. 
