@@ -12,7 +12,7 @@ We use workspace 2.0 to share files which require private sharing. Some importan
 1. Go to [https://files.workspace.ubc.ca/](https://files.workspace.ubc.ca/)
 1. Login using:
 * Group ID: UBC
-* User name and password: CWL UN and PW
+* User name and password: CWL user name and password
 
 ![](../assets/images/workspace20.PNG)
 1. If you cannot see the Research Commons folder, contact the UBC Library Research Commons Program Coordinator. 
