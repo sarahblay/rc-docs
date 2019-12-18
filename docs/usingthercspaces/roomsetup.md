@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Room setup
-parent: usingthespaces
+parent: Using the spaces in the Research Commons
 nav_order: 1
 ---
 
