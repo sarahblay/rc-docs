@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Room setup
-parent: usingthercspaces
-nav_order: 2
+parent: Using the spaces
+nav_order: 1
 ---
 
 # Room Setup
