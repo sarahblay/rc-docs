@@ -1,6 +1,7 @@
 ---
 layout: default
 title: GAA on-boarding checklist
+parent: roomsetup.md
 nav_order: 2
 ---
 # GAA on-boarding checklist
