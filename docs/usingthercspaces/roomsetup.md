@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Room setup
-parent: Using the spaces
+parent: usingthespaces
 nav_order: 1
 ---
 
