@@ -11,7 +11,8 @@ We use workspace 2.0 to share files which require private sharing. Some importan
 ### To access Workspace 2.0:
 1. Go to [https://files.workspace.ubc.ca/](https://files.workspace.ubc.ca/)
 1. Login using:
-![](..assets/images/workspace20.PNG)
+![](..assets/images/workspace20.png)
+
 1. If you cannot see the Research Commons folder, contact the UBC Library Research Commons Program Coordinator. 
 
 ### Important documents found in Workspace 2.0:
