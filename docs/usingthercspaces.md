@@ -6,7 +6,7 @@ has_children: true
 permalink: /docs/usingthespaces
 ---
 
-# Utilities
+# Using the spaces in the Research Commons
 {: .no_toc }
 
 These pages are meant for anyone using the Research Commons spaces on the 4th and 5th floors of the Koerner Library. 
