@@ -1,4 +1,11 @@
-# Don't suffer in silence
+---
+layout: default
+title: Some notes about harassment
+parent: GAA on-boarding
+nav_order: 2
+---
+
+# Some notes about harassment
 If you are not comfortable with how a client is speaking or behaving towards you, then:
 1. Get yourself out of the situation immediately. You don't need anyone else's confirmation that you are uncomfortable. Trust your gut and get out. Any excuse to leave the room (including needing the washroom) will suffice.
 2. Know that you can come and get any of us in the Research Commons (Allan, Sarah, Evan, Jeremy, Eka, Paul, Eugene). If we are all away for some reason, you can also go to the Circulation Desk (3rd Floor) or Reference Help Desk (3rd Floor).
