@@ -20,11 +20,11 @@ We have connectors for all flavours of MAC and PC laptops and tablets if you do 
 ![](/assets/images/Thunderbolt 3 to HDMI.png)
 
 
-![](../assets/images/vgathunderbolt2.png)
+![](/images/vgathunderbolt2.png)
   
 ### Where can I find the adapters?
 They are in the marked cupboard in Room 545 in Koerner Library:
-![](../assets/images/wherearetheadapters.png) 
+![](/wherearetheadapters.png) 
 
 # Using the UBC Library Research Commons laptops
 The UBC Library Research Commons laptops are intended for the use by instructors and students in UBC Library Research Commons workshops. There are two PCs and one MAC. Unfortunately the current setup is such that you must login in advance of the workshop and this process can take quite a bit of time. For this reason, the instructor (GAA, Librarian, etc.) leading the class needs to login to the machine on behalf of the student.
@@ -39,7 +39,7 @@ Both microphones for the Presentation Room are stored in the cupboard in Room 54
 
 ## Accessing ON button for handheld mic:
 1. Twist the body of the mic to the left to loosen. Once loose, pull the handle shell down to reveal the buttons.<br>
-![](../assets/images/handheldextension.jpg)
+![](handheldextension.jpg)
 2. The ON/OFF button is the tiny grey button closest to the bottom of the controls.
 ![](../assets/images/handheld_buttons.jpg)
 
