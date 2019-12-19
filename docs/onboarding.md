@@ -1,9 +1,10 @@
 ---
 layout: default
 title: GAA on-boarding checklist
-parent: roomsetup.md
-nav_order: 2
+parent: GAA on-boarding
+nav_order: 1
 ---
+
 # GAA on-boarding checklist
 Welcome aboard! Here are the logistical things we need to take care of with you.
 ### Items for HR and Payroll:
