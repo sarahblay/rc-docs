@@ -1,25 +1,35 @@
 ---
 layout: default
 title: Room setup
-parent: Working with the UBC Libraray Research Commons
+parent: Working with the UBC Library Research Commons
 nav_order: 1
 ---
 
-# Room Setup
+# Presentation Room (Room 548 and 552) Use
 [Using the Microphones](#using-the-microphones)
-# VGA or HDMI (with adapters if needed)
+# Projecting video onto screens
 
-Please do not use Air Media to present workshops in the Presentation Room. It is failing more often than it is not failing and IT and others have already explained that the technology is not reliable enough for this purpose. 
-Please save yourself the stress of mid-workshop failure and use the HDMI or VGA connectors. If you do not have a VGA or HDMI output on your laptop, please go to Room 497A (Map Printer Room) and borrow one of the two adapters shown below. 
+**DO NOT** rely on Air Media for presentations. It will only work temporarily and then fail in the middle of your presentation / workshop.
+
+**Instead, use the HDMI and VGA connectors.** 
+The best and easiest option is to connect directly to the HDMI or VGA cables in the room. 
+
+## Adaptors for projecting video
+We have connectors for all flavours of MAC and PC laptops and tablets if you do not have a direct HDMI or VGA port on your laptop.
 
 ![](../assets/images/Thunderbolt 3 to HDMI.png)
 
 
 ![](../assets/images/vgathunderbolt2.png)
   
-## Where can I find the adapters?
+### Where can I find the adapters?
 They are in the marked cupboard in Room 545 in Koerner Library:
 ![](../assets/images/wherearetheadapters.png) 
+
+# Using the UBC Library Research Commons laptops
+The UBC Library Research Commons laptops are intended for the use by instructors and students in UBC Library Research Commons workshops. There are two PCs and one MAC. Unfortunately the current setup is such that you must login in advance of the workshop and this process can take quite a bit of time. For this reason, the instructor (GAA, Librarian, etc.) leading the class needs to login to the machine on behalf of the student.
+
+## Laptops located in cupboards in Room 545
 
 # Using the Microphones
 For both the handheld and lapel mics, you need to find the secret ON button to make them work.
