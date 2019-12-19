@@ -17,6 +17,8 @@ The best and easiest option is to connect directly to the HDMI or VGA cables in 
 ## Adaptors for projecting video
 We have connectors for all flavours of MAC and PC laptops and tablets if you do not have a direct HDMI or VGA port on your laptop.
 
+![](https://github.com/ubcresearchcommons/rc-docs/blob/master/assets/images/LibCalSpacesSelections.PNG)
+
 ![](/tree/master/assets/images/Thunderbolt 3 to HDMI.png)
 
 
@@ -25,7 +27,7 @@ We have connectors for all flavours of MAC and PC laptops and tablets if you do 
 ### Where can I find the adapters?
 They are in the marked cupboard in Room 545 in Koerner Library:
 ![](/wherearetheadapters.png) 
-
+![](https://ubcresearchcommons.github.io/rc-docs/assets/images/wherearetheadapters.png)
 # Using the UBC Library Research Commons laptops
 The UBC Library Research Commons laptops are intended for the use by instructors and students in UBC Library Research Commons workshops. There are two PCs and one MAC. Unfortunately the current setup is such that you must login in advance of the workshop and this process can take quite a bit of time. For this reason, the instructor (GAA, Librarian, etc.) leading the class needs to login to the machine on behalf of the student.
 
