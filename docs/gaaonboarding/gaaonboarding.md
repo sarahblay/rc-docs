@@ -7,8 +7,6 @@ permalink: docs/gaaonboarding
 ---
 
 # GAA on-boarding
-
-# Working with the UBC Library Research Commons
 {: .no_toc }
 
 These pages are primarily here for our GAAs to help you get up and running and be able to return to these pages if you forget something.
