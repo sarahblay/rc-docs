@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Room setup
-nav_order: 2
+parent: Working with the UBC Libraray Research Commons
+nav_order: 1
 ---
 
 # Room Setup
