@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Workspace 2.0  
-nav_order: 4
+title: Using Workspace 2.0
+parent: GAA on-boarding
+nav_order: 3
 ---
 # Workspace 2.0
 We use workspace 2.0 to share files which require private sharing. Some important examples include:
