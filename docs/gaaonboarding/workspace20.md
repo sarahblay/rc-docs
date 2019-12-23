@@ -16,6 +16,7 @@ We use workspace 2.0 to share files which require private sharing. Some importan
 * User name and password: CWL user name and password
 
 ![](https://ubcresearchcommons.github.io/rc-docs/assets/images/workspace20.PNG)
+![](../../assets/images/workspace20.PNG)
 1. If you cannot see the Research Commons folder, contact the UBC Library Research Commons Program Coordinator. 
 
 ### Important documents found in Workspace 2.0:
