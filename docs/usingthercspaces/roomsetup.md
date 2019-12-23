@@ -17,8 +17,6 @@ The best and easiest option is to connect directly to the HDMI or VGA cables in 
 ## Adaptors for projecting video
 We have connectors for all flavours of MAC and PC laptops and tablets if you do not have a direct HDMI or VGA port on your laptop.
 
-![](https://ubcresearchcommons.github.io/rc-docs/assets/images/LibCalSpacesSelections.PNG)
-
 ![](https://ubcresearchcommons.github.io/rc-docs/assets/images/Thunderbolt 3 to HDMI.png)
 
 
