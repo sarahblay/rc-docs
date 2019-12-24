@@ -2,25 +2,22 @@
 layout: default
 title: research.commons@ubc.ca calendar
 parent: GAA on-boarding
-nav_order: 54
+nav_order: 5
 ---
 # research.commons@ubc.ca calendar
 
 ## Accessing the Research Commons Email Inbox
 1. Access the calendar from the same place as the inbox. See [research.commons@ubc.ca inbox](#research.commons@ubc.ca-inbox). 
-Go to the <a href="https://www.mail.ubc.ca/owa/research.commons@ubc.ca/" target="blank">UBC online email login</a>.
-2. Login with your CWL user name and password.
-3. Switch to the **Library Research Commons** mailboxby clicking the down arrow to the right of your name and then entering the text: **Library Research Commons**.
 
-![](../../assets/images/chooseLibraryResearchCommonsinbox.png)
+## Scheduling one-on-one consults
+- Don't forget that we do not offer a drop-in service. That said, if you are here during your consult hours and available, you should take the appointment.
+- Don't forget that your clients must treat you with the full respect you deserve. See [Some notes about harassment](#some-notes-about-harassment).
+1. To trigger the request for a consult, your clients need to fill in the online formon the [UBC Library Research Commons website](https://researchcommons.library.ubc.ca/graduate-student-expert-consultation-request-form/).
 
-**Note:** If you do not have the option of selecting the Library Research Commons inbox, contact the UBC Library Research Commons Program Coordinator to have this inbox added to your CWL account.
+**Note:**If you have a walk-in or someone request a different research commons service (which you don't personally offer), always get them to fill in this form anyways. This is how we track the consults.
 
-## Working in the Library Research Commons inbox
-1. Keep in mind that many people work in this inbox, so following these courtesies helps the whole team.
-2. Open the inbox on your shift.
-3. Do the following to the emails:
-   1. Categorize the emails: ![](../../assets/images/emailcategories.png)
-   2. After categorizing an email that is not in your area, return the email to the state of **UNREAD**.
-   3. If you work on an email but have not completed work on it, leave it with the category but marked as READ in the inbox. (ie, part way done). Let anyone else who works in the same subject as you know the status of the email by contacting them directly. For example – I will finish it later – please take a look at it etc.
-   4. Move completed emails to the folder for the current year.
+**Note 2:**Always make sure that your consult hours are correctly listed on this form. If they are incorrect or change, notify the UBC Library Research Commons Program Coordinator so they can be updated promptly.
+
+2. All requests are auotmatically sent to the UBC Library Research Commons inbox, so you will see them there.
+3. Once you have determined with your teaching partner that the consult is one you will handle, you need to "invite" the client to a Micrsoft Outlook meeting/appointment in the Library Research Commons calendar.
+
