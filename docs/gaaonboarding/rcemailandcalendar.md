@@ -22,4 +22,4 @@ nav_order: 4
    1. Categorize the emails: ![](../../assets/images/emailcategories.png)
    2. After categorizing an email that is not in your area, return the email to the state of **UNREAD**.
    3. If you work on an email but have not completed work on it, leave it with the category but marked as READ in the inbox. (ie, part way done). Let anyone else who works in the same subject as you know the status of the email by contacting them directly. For example – I will finish it later – please take a look at it etc.
-Move completed emails to the folder for the current year.
+   4. Move completed emails to the folder for the current year.
