@@ -11,7 +11,7 @@ nav_order: 5
 
 ## Scheduling one-on-one consults
 - Don't forget that we do not offer a drop-in service. That said, if you are here during your consult hours and available, you should take the appointment.
-- Don't forget that your clients must treat you with the full respect you deserve. See [Some notes about harassment](#some-notes-about-harassment).
+- Don't forget that your clients must treat you with the full respect you deserve. See [Some notes about harassment](#some notes about harassment).
 1. To trigger the request for a consult, your clients need to fill in the online formon the [UBC Library Research Commons website](https://researchcommons.library.ubc.ca/graduate-student-expert-consultation-request-form/).
 
 **Note:**If you have a walk-in or someone request a different research commons service (which you don't personally offer), always get them to fill in this form anyways. This is how we track the consults.
