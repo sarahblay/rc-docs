@@ -18,6 +18,6 @@ nav_order: 5
 
 **Note 2:**Always make sure that your consult hours are correctly listed on this form. If they are incorrect or change, notify the UBC Library Research Commons Program Coordinator so they can be updated promptly.
 
-2. All requests are auotmatically sent to the UBC Library Research Commons inbox, so you will see them there.
+2. All requests are automatically sent to the UBC Library Research Commons inbox, so you will see them there.
 3. Once you have determined with your teaching partner that the consult is one you will handle, you need to "invite" the client to a Micrsoft Outlook meeting/appointment in the Library Research Commons calendar.
 
