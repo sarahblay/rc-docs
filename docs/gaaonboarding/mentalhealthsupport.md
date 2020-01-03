@@ -8,7 +8,7 @@ nav_order: 6
 
 - University campuses can be competitive, stressful, and lonely envrionments. We are here to support each other in this environment.
 - If you need assistance for yourself or a client, you are encouraged to reach out to any of the Research Commons staff.
-- Additionally, some excellent supports are available for you and student clients as the links below.
+- Additionally, some excellent supports are available for you and student clients at the links below.
 
 ## For You (as a GAA)
 
