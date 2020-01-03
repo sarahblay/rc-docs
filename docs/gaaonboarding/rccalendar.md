@@ -17,11 +17,8 @@ nav_order: 5
 1. All requests are automatically sent to the UBC Library Research Commons inbox, so you will see them there.
 
 1. Once you have determined with your teaching partner that the consult is one you will handle, you need to "invite" the client to a Micrsoft Outlook meeting/appointment in the Library Research Commons calendar.
-
 ![](../../assets/images/bookanappointmentincalendar.png)
-
 1. After you have sent the meeting invitation, it will show up in the calendar. Categorize the invitation in the calendar view according to the type of consult you offer:
-
 ![](../../assets/images/clientappointment.png)
 
 
