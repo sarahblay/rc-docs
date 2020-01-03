@@ -14,10 +14,20 @@ nav_order: 5
 - Don't forget that your clients must treat you with the full respect you deserve. See [Some notes about harassment](#some notes about harassment).
 1. To trigger the request for a consult, your clients need to fill in the online formon the [UBC Library Research Commons website](https://researchcommons.library.ubc.ca/graduate-student-expert-consultation-request-form/).
 
-**Note:**If you have a walk-in or someone request a different research commons service (which you don't personally offer), always get them to fill in this form anyways. This is how we track the consults.
+1. All requests are automatically sent to the UBC Library Research Commons inbox, so you will see them there.
 
-**Note 2:**Always make sure that your consult hours are correctly listed on this form. If they are incorrect or change, notify the UBC Library Research Commons Program Coordinator so they can be updated promptly.
+1. Once you have determined with your teaching partner that the consult is one you will handle, you need to "invite" the client to a Micrsoft Outlook meeting/appointment in the Library Research Commons calendar.
 
-2. All requests are automatically sent to the UBC Library Research Commons inbox, so you will see them there.
-3. Once you have determined with your teaching partner that the consult is one you will handle, you need to "invite" the client to a Micrsoft Outlook meeting/appointment in the Library Research Commons calendar.
+![](../../assets/images/bookanappointmentincalendar.png)
+
+1. After you have sent the meeting invitation, it will show up in the calendar. Categorize the invitation in the calendar view according to the type of consult you offer:
+
+![](../../assets/images/clientappointment.png)
+
+
+**Note 1:** If you have a walk-in or someone request a different research commons service (which you don't personally offer), always get them to fill in this form anyways. This is how we track the consults.
+
+**Note 2:** Always make sure that your consult hours are correctly listed on the online form. If they are incorrect or change, notify the UBC Library Research Commons Program Coordinator so they can be updated promptly.
+
+
 
