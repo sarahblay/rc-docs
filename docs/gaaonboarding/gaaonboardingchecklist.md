@@ -44,3 +44,4 @@ For help with these items, contact the UBC Library Research Commons Program Coor
    - Koerner Consult Rooms
    - Koerner Presentation Room
    - Koerner Room 217 where applicable
+1.  \[    \] Your name has been added to the [online feedback survey](http://bit.ly/UBCLibRCFeedback)
