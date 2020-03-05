@@ -30,14 +30,21 @@ Welcome aboard! Here are the logistical things we need to take care of with you.
 
 For help with these items, contact the UBC Library Research Commons Program Coordinator.
 
-1. \[    \] Be added to the [research.commons@ubc.ca](research.commons@ubc.ca) email so you can see this Inbox when you login to webmail with your CWL.
+1. \[    \] Be added to the [gaa.consults@ubc.ca](gaa.consults@ubc.ca) email so you can see this Inbox when you login to webmail with your CWL.
 1. \[    \] You have access to all necessary rooms on floor 4 and 5 of Koerner Library.
 1. \[    \] An existing staff member has reviewed the use of Woodward B25 with you.
 1. \[    \] Your Workspace 2.0 account is set up.
-1. \[    \] You have provided your available and unavailable times to the Research Commons Program Coordinator.
+
 1. \[    \] You know when you will work with your teaching partner for consults during training.
 1. \[    \] You know when your consults will be when training is complete.
 1. \[    \] You know when your workshops are.
+1. \[    \] Your appointments are all setup because you have done the following:
+   - You have provided your available and unavailable times to the Research Commons Program Coordinator.
+   - You have determined at what time your consults will be.
+   - The Research Commons Program Coordinator has blocked off your times in Outlook so your Consult Room is booked.
+   - You know how to book a Consult Room if you need to host an appointment outside of your regular consult hours.
+   - You have been added to LibCal (have an account). 
+   - You have received training on how to setup your appointments in LibCal.
 1. \[    \] You have had a site tour of Koerner Library including:
    - Koerner 4th and 5th floors
    - Koerner Staff Room 545 - including loaner laptops, adapters, mics etc.
@@ -45,3 +52,4 @@ For help with these items, contact the UBC Library Research Commons Program Coor
    - Koerner Presentation Room
    - Koerner Room 217 where applicable
 1.  \[    \] Your name has been added to the [online feedback survey](http://bit.ly/UBCLibRCFeedback)
+1.  \[    \] You understand the VERY IMPORTANT step of logging all of your workshops and consults in Desktracker and have received training on how to do so.
