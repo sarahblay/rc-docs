@@ -18,7 +18,7 @@ Welcome aboard! Here are the logistical things we need to take care of with you.
    - \[    \] **Foreign Students only**-Study permit (VISA) and SIN 
      - if you do not yet have a SIN, you must apply immediately. Service Canada instantly gives you a letter confirming you applied for SIN. You must submit this to Library HR while you wait for your SIN to arrive.
 1. \[    \] You have completed the Koerner Library Safety training and submitted the accompanying checklist completed to Aprille.
-1. \[    \] You have completed the <b>FIVE</b> online courses, printed certificates of proof, and submitted them to Aprille:
+1. \[    \] You have completed the <b>six</b> online courses, printed certificates of proof, and submitted them to Aprille:
    - \[    \] **ONLINE** [New Worker Safety Training - Part 1 and 2](https://www.hse2.ubc.ca/moodle/course/index.php?categoryid=7)
    - \[    \] **ONLINE** [Preventing and Addressing Workplace Bullying & Harassment (B&H)](https://www.hse2.ubc.ca/moodle/course/index.php?categoryid=6)
    - \[    \] **ONLINE** [Violence in the Workplace](https://www.hse2.ubc.ca/moodle/course/index.php?categoryid=13)
