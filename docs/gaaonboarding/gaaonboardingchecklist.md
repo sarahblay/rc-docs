@@ -22,7 +22,7 @@ Welcome aboard! Here are the logistical things we need to take care of with you.
    - \[    \] **ONLINE** [New Worker Safety Training - Part 1 and 2](https://www.hse2.ubc.ca/moodle/course/index.php?categoryid=7)
    - \[    \] **ONLINE** [Preventing and Addressing Workplace Bullying & Harassment (B&H)](https://www.hse2.ubc.ca/moodle/course/index.php?categoryid=6)
    - \[    \] **ONLINE** [Violence in the Workplace](https://www.hse2.ubc.ca/moodle/course/index.php?categoryid=13)
-   - \[    \] **ONLINE** [Privacy Matters Training](https://privacymatters.ubc.ca/fundamentals-training)
+   - \[    \] **ONLINE** [Privacy Matters Training <b>PART 1</b> AND <b>PART 2</b>](https://privacymatters.ubc.ca/fundamentals-training)
  
 1. \[    \] You have reviewed the payroll procedures with UBC Library Research Commons staff and UBC Library Research Commons Librarian (for hour allotments).
 
