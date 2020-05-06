@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Room setup
-parent: Working with the UBC Libraray Research Commons
+parent: Workshop and consult setup
 nav_order: 1
 ---
 
