@@ -40,24 +40,41 @@ The Zoom account will be setup within about 2 business days. If you are waiting 
 # Roles and responsibilities
 In the teaching pair, or teaching group, you need to first figure out who will be Host and who will be Co-host. 
 
-## Host responsibilities
+## Host responsibilities (Monitoring chat and keeping workshop running smoothly)
+Before workshop:
 1. Create the Zoom link and provide to your team lead (Allan Cho, Eka Grguric, Jeremy Buhler, Evan Thornberry), they can add the link to your event invite in LibCal.
-2. Add attendees from the waitroom into the main session.
-3. Post links in the chat window that your co-host mentions. 
-4. Take screenshots of the participant pane at approximately the 15 minute mark for attendance. 
-5. Monitor the chat and participant pane for raised hands and other commentary.
-6. Download screenshots of the whiteboards if you use this feature.
+2. Read through everything you need to do during the workshop and make sure you will be ready to handle these items.
+During workshop:
+3. Add attendees from the waitroom into the main session.
+4. Post links in the chat window that your co-host mentions. (This includes where your workshop materials are online and the feedback survey at the end of the workshop.)
+5. Take screenshots of the participant pane at approximately the 15 minute mark for attendance. 
+6. Monitor the chat and participant pane for raised hands and other commentary.
+7. Download screenshots of the whiteboards throughout the session if you use this feature.
+After workshop:
+8. Export the chat for the reference of your co-host and yourself and also in case you did not get to all of the questions.
+9. Enter your attendance numbers in Desktracker.
 
 
-## Co-host responsibilities
-1. Congratulations! You are presenting / teaching the workshop / webinar content. 
-2. Welcome attendees.
-3. Orient attendees to location of webinar website, slides, and other materials.
-4. Orient attendees to Zoom features.  Check out Jeremy Buhler's page for orienting attendees to Zoom features:  <a href="https://ubc-library-rc.github.io/intro-api/online.html" target="_blank">https://ubc-library-rc.github.io/intro-api/online.html</a>
+## Co-host responsibilities (Presenter)
+Before workshop:
+1. Orient yourself to the Zoom features so you can seamlessly explain them to your attendees. Check out Jeremy Buhler's page for orienting attendees to Zoom features: <a href="https://ubc-library-rc.github.io/intro-api/online.html" target="_blank">https://ubc-library-rc.github.io/intro-api/online.html</a>. If this is your first Zoom workshop, work with your teaching partner to actually try the features before the workshop.
+During the workshop:
+2. You are presenting / teaching the workshop / webinar content. 
+3. Welcome attendees.
+4. Orient attendees to location of webinar website, slides, and other materials.
+5. Orient attendees to Zoom features.
+After workshop:
+6. Touch base with your teaching partner to debrief what worked, what didn't, areas to improve etc.
+
+
 
 ## Others Responsibilities
 1. Allan Cho, Eka Grguric, Jeremy Buhler, Evan Thornberry will put the GAA's zoom link into the reminder email for the event.
 2. Sarah Blay and Brett Dimond will be online for all workshop times in case emails come through [research.commons@ubc.ca](mailto:research.commons@ubc.ca).
+
+# Breakout rooms (use optional)
+
+
 
 
 # LibCal workshop setup for Zoom workshops
