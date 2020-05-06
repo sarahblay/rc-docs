@@ -4,7 +4,7 @@ title: Booking workshops in LibCal
 parent: Workshop and consult setup
 nav_order: 1
 ---
-# LibCal and the UBC Library Research Commons
+# Booking workshops in LibCal
 Checklist for setting up Grad Student events in LibCal:
 - \[ ] Picked the UBC Library Research Commons Workshops Registration Form to capture faculty / unit and also subscriptions to RC newsletter.
 - \[ ] Tagged the workshop with Research Commons category.
