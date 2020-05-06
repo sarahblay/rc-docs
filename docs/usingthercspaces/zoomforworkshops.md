@@ -6,8 +6,8 @@ nav_order: 6
 ---
 # Getting a UBC Education Zoom account
 1. You will need a UBC Zoom account to lead workshops so that your workshop length is unlimited and you can lead up to 300 participants. Go to this link:
-<a href="https://ubc.service-now.com/selfservice?id=sc_cat_item&sys_id=cc7f5fb9874e0100bbee70406d434df9" target="_blank">https://ubc.service-now.com/selfservice?id=sc_cat_item&sys_id=cc7f5fb9874e0100bbee70406d434df9</a>. 
-<br/>
+<a href="https://ubc.service-now.com/selfservice?id=sc_cat_item&sys_id=cc7f5fb9874e0100bbee70406d434df9" target="_blank">https://ubc.service-now.com/selfservice?id=sc_cat_item&sys_id=cc7f5fb9874e0100bbee70406d434df9</a>.     
+
 Note: You will be prompted for your CWL and password.
 <br/>
 The Zoom account will be setup within about 2 business days. If you are waiting longer than this, please contact [research.commons@ubc.ca](mailto:research.commons@ubc.ca) email for follow up.
