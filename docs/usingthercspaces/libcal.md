@@ -1,7 +1,7 @@
 ---
 layout: default
-title: LibCal and the UBC Library Research Commons
-parent: Working with the UBC Libraray Research Commons
+title: Booking workshops in LibCal
+parent: Workshop and consult setup
 nav_order: 1
 ---
 # LibCal and the UBC Library Research Commons
