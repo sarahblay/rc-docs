@@ -2,7 +2,7 @@
 layout: default
 title: Room setup
 parent: Workshop and consult setup
-nav_order: 1
+nav_order: 10
 ---
 
 # Presentation Room (Room 548 and 552) Use
