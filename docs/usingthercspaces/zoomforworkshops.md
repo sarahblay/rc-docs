@@ -22,12 +22,12 @@ The Zoom account will be setup within about 2 business days. If you are waiting 
   * Enable waiting room
   ![](../../assets/images/zoomsettings2.png)   
 1. Enable the Waiting Room and also do a bug work around so that the Waiting Room messaging looks correct following these steps.
-  1.  In your Zoom settings (<a href="https://zoom.us/profile/setting" target="_blank">https://zoom.us/profile/setting</a>), enable Waiting Room. 
+  * In your Zoom settings (<a href="https://zoom.us/profile/setting" target="_blank">https://zoom.us/profile/setting</a>), enable Waiting Room. 
 ![](../../assets/images/waitingroomenabled.png)
-  1. Now the pencil icon to the right of Customize the title, logo, and description.
-  1. Now click on Add waiting room description (even though you won't actually be adding a description).
+  * Now the pencil icon to the right of Customize the title, logo, and description.
+  * Now click on Add waiting room description (even though you won't actually be adding a description).
 ![](../../assets/images/Addingwaitingroomdescription3.png)
-  1. Now click the check box and then Close the dialog.
+  * Now click the check box and then Close the dialog.
 ![](../../assets/images/checkmark4donothing.png)  
 
 # Assigning roles with teaching pairs
