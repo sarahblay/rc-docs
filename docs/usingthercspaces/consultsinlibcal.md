@@ -8,7 +8,7 @@ nav_order: 5
 
 We use the LibCal appointments module.
 
-1. ![Log in to LibCal here](https://library-ubc-ca.libapps.com/libapps/login.php?site_id=9123&target=).
+1. [Log in to LibCal here](https://library-ubc-ca.libapps.com/libapps/login.php?site_id=9123&target=).
 
 You should see an appointments tab in the main menu:
 ![](../../assets/images/libcalappointmentsmenu.png)
