@@ -30,14 +30,22 @@ The Zoom account will be setup within about 2 business days. If you are waiting 
   * Now click the check box and then Close the dialog.
 ![](../../assets/images/checkmark4donothing.png)  
 
-# Assigning roles with teaching pairs
+# Recording your sessions / Privacy issues
+  * Please do not record your sessions due to privacy concerns.
+  * If your team (including your Team Lead) decides you should record a session, the co-host must announce at the beginning of the session that it is being recorded. Also, a note needs to be added in the meeting reminder to let participants know it will be recorded with the suggestion that participants only login with their first names. If you are in the middle of a workshop, participants can change their display name by clicking it in the Participants list.
+![](../../assets/images/rightclickparticipantname.png)  
+  
+
+# Roles and responsibilities
 In the teaching pair, or teaching group, you need to first figure out who will be Host and who will be Co-host. 
 
 ## Host responsibilities
 1. Create the Zoom link and provide to your team lead (Allan Cho, Eka Grguric, Jeremy Buhler, Evan Thornberry), they can add the link to your event invite in LibCal.
 2. Add attendees from the waitroom into the main session.
-3. Take screenshots of the participant pane at approximately the 15 minute mark for attendance. 
-4. Monitor the chat and participant pane for raised hands and other commentary.
+3. Post links in the chat window that your co-host mentions. 
+4. Take screenshots of the participant pane at approximately the 15 minute mark for attendance. 
+5. Monitor the chat and participant pane for raised hands and other commentary.
+6. Download screenshots of the whiteboards if you use this feature.
 
 
 ## Co-host responsibilities
