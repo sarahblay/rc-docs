@@ -12,6 +12,24 @@ Note: You will be prompted for your CWL and password.
 
 The Zoom account will be setup within about 2 business days. If you are waiting longer than this, please contact [research.commons@ubc.ca](mailto:research.commons@ubc.ca) email for follow up.    
 
+# Recommended Zoom settings
+1. Make sure you have the following settings:
+  * Meeting ID > Generate Automatically
+  * Video Host and Video Participant set to off.
+![](../../assets/images/zoomsettings1.png)    
+1. Also, make sure both of these are on:
+  * Mute participants upon entry
+  * Enable waiting room
+  ![](../../assets/images/zoomsettings2.png)   
+1. Enable the Waiting Room and also do a bug work around so that the Waiting Room messaging looks correct following these steps.
+  1.  In your Zoom settings (<a href="https://zoom.us/profile/setting" target="_blank">https://zoom.us/profile/setting</a>), enable Waiting Room. 
+![](../../assets/images/waitingroomenabled.png)
+  1. Now the pencil icon to the right of Customize the title, logo, and description.
+  1. Now click on Add waiting room description (even though you won't actually be adding a description).
+![](../../assets/images/Addingwaitingroomdescription3.png)
+  1. Now click the check box and then Close the dialog.
+![](../../assets/images/checkmark4donothing.png)  
+
 # Assigning roles with teaching pairs
 In the teaching pair, or teaching group, you need to first figure out who will be Host and who will be Co-host. 
 
@@ -32,16 +50,6 @@ In the teaching pair, or teaching group, you need to first figure out who will b
 1. Allan Cho, Eka Grguric, Jeremy Buhler, Evan Thornberry will put the GAA's zoom link into the reminder email for the event.
 2. Sarah Blay and Brett Dimond will be online for all workshop times in case emails come through [research.commons@ubc.ca](mailto:research.commons@ubc.ca).
 
-
-# Recommended Zoom settings
-1. Make sure you have the following settings:
-  * Meeting ID > Generate Automatically
-  * Video Host and Video Participant set to off.
-![](../../assets/images/zoomsettings1.png)    
-1. Also, make sure both of these are on:
-  * Mute participants upon entry
-  * Enable waiting room
-  ![](../../assets/images/zoomsettings2.png)    
 
 # LibCal workshop setup for Zoom workshops
 These instructions assume you are using the online Zoom website but similar steps can be replicated in desktop Zoom.
