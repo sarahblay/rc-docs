@@ -32,7 +32,8 @@ The Zoom account will be setup within about 2 business days. If you are waiting 
 
 # Recording your sessions / Privacy issues
   * Please do not record your sessions due to privacy concerns.
-  * If your team (including your Team Lead) decides you should record a session, the co-host must announce at the beginning of the session that it is being recorded. Also, a note needs to be added in the meeting reminder to let participants know it will be recorded with the suggestion that participants only login with their first names. In the middle of a workshop, change your display name by clicking your name in the Participants list.
+  * If your team (including your Team Lead) decides you should record a session, the co-host must announce at the beginning of the session that it is being recorded. 
+  * Also, a note needs to be added in the meeting reminder to let participants know it will be recorded with the suggestion that participants only login with their first names. In the middle of a workshop, change your display name by clicking your name in the Participants list.
 ![](../../assets/images/rightclickparticipantname.png)  
   
 
