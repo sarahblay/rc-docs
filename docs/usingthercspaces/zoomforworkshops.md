@@ -18,6 +18,10 @@ The Zoom account will be setup within about 2 business days. If you are waiting 
   * Video Host and Video Participant set to off.
 ![](../../assets/images/zoomsettings1.png)    
 
+1. Make sure both of these are on:
+  * Mute participants upon entry
+  * Enable waiting room
+![](../../assets/images/zoomsettings2.png)    
 
 1. For events to appear in the Graduate Community Calendar <a href="https://community.grad.ubc.ca/calendar" target="_blank">https://community.grad.ubc.ca/calendar</a>, they need to be manually copied by the UBC Library Research Commons Program Coordinator. Typically all of the events that are in LibCal for Graduate Students are all copied into this calendar once per semester. This usually happens when the GAA led workshop schedule is locked-down. For example, this happened in mid December for the January schedule. It is typically about 1 month before the start of a given semester. Missed the mass copy? Simply let the UBC Library Research Commons Program Coordinator know you need an individual event copied to the Graduate Calendar.
 1. Since you are the owner of the event, only you have access to the registration data for the event. If you used the UBC Library Research Commons Workshops registration form in step 1, you will need to share this information with the UBC Library Research Commons Program Coordinator so that anyone who subscribes to the UBC Library Research Commons newsletter actually receives the newsletter as promised. Simply download and email the Excel spreadsheet associated with your event by going to Manage Event > Registrations tab and click the Excel button to download the Excel spreadsheet.
