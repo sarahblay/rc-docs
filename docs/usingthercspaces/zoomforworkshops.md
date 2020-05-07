@@ -59,7 +59,9 @@ After workshop:
 
 ## Co-host responsibilities (Presenter)
 Before workshop:
-1. Orient yourself to the Zoom features so you can seamlessly explain them to your attendees. Check out Jeremy Buhler's page for orienting attendees to Zoom features: <a href="https://ubc-library-rc.github.io/intro-api/online.html" target="_blank">https://ubc-library-rc.github.io/intro-api/online.html</a>. If this is your first Zoom workshop, work with your teaching partner to actually try the features before the workshop.
+1. Orient yourself to the Zoom features so you can seamlessly explain them to your attendees. If this is your first Zoom workshop, work with your teaching partner to actually try the features before the workshop.  
+   a. For a quick overview, see <a href="https://ubc-library-rc.github.io/intro-api/online.html" target="_blank">https://ubc-library-rc.github.io/intro-api/online.html</a>. 
+   b. 
 During the workshop:
 2. You are presenting / teaching the workshop / webinar content. 
 3. Welcome attendees.
