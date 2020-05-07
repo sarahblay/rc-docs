@@ -33,7 +33,7 @@ The Zoom account will be setup within about 2 business days. If you are waiting 
 # Recording your sessions / Privacy issues
   * Please do not record your sessions due to privacy concerns.
   * If your team (including your Team Lead) decides you should record a session, the co-host must announce at the beginning of the session that it is being recorded. 
-  * Also, a note needs to be added in the meeting reminder to let participants know it will be recorded with the suggestion that participants only login with their first names. In the middle of a workshop, change your display name by clicking your name in the Participants list.
+  * Also, a note needs to be added in the meeting reminder to let participants know it will be recorded with the suggestion that participants only login with their first names. In the middle of a workshop, change your display name by clicking your name in the Participants list and selecting Rename.
   ![](../../assets/images/rightclickparticipantname.png)
   
 
@@ -42,7 +42,9 @@ In the teaching pair, or teaching group, you need to first figure out who will b
 
 ## Host responsibilities (Monitoring chat and keeping workshop running smoothly)
 Before workshop:
-1. Create the Zoom link and provide to your team lead (Allan Cho, Eka Grguric, Jeremy Buhler, Evan Thornberry), they can add the link to your event invite in LibCal.
+1. Set up the Zoom link for your workshop:
+   a. Two weeks before your workshop, generate a Zoom link for your workshop at <a href="https://zoom.us/meeting" target="_blank">https://zoom.us/meeting</a>. Check with your Team Lead (Allan Cho, Eka Grguric, Jeremy Buhler, Evan Thornberry) to confirm the date and time.
+   b. Once created, send the Zoom link to your Team Lead so they can put it into the event for your participants.
 2. Read through everything you need to do during the workshop and make sure you will be ready to handle these items.
 During workshop:
 3. Add attendees from the waitroom into the main session.
@@ -73,11 +75,10 @@ After workshop:
 2. Sarah Blay and Brett Dimond will be online for all workshop times in case emails come through [research.commons@ubc.ca](mailto:research.commons@ubc.ca).
 
 # Breakout rooms (use optional)
+Breakout rooms can be used in a variety of scenarios such as when some users are on MACs and others PCs (and the workflows are different) or if you need to give help to a certain individual while the workshop continues.
+1. Before using Breakout rooms in Zoom, it is recommended that you try this feature with your teaching partner to practice for smooth running in your actual workshop.
+2. Learn about Breakout room use here: <a href="https://support.zoom.us/hc/en-us/articles/206476093-Enabling-breakout-rooms" target="_blank">https://support.zoom.us/hc/en-us/articles/206476093-Enabling-breakout-rooms</a>.
 
 
-
-
-# LibCal workshop setup for Zoom workshops
-These instructions assume you are using the online Zoom website but similar steps can be replicated in desktop Zoom.
-1. Two weeks before your workshop, generate a Zoom link for your workshop at <a href="https://zoom.us/meeting" target="_blank">https://zoom.us/meeting</a>    
+   
 
