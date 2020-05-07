@@ -19,12 +19,11 @@ Login
 -----
 
 -   visit <http://client.desktracker.com/?uact=login>
-
 -   enter account \# 415531, username (rc-gaa), and password (contact supervisor for password)
-
 -   click *continue* to start entering data
 
 After login you will see a tab for each data entry form.
+
 ![Desk Tracker landing page](../../assets/images/dt-tabs.png)
 
 
@@ -32,13 +31,9 @@ After login you will see a tab for each data entry form.
 Use the _Activity_ form to record information about your consultations. Do not record no-shows.
 
 -   *Contact method*. Refers to the actual consultation. Use _Walk in_ for in-person consultations.
-
 -   *Type*. Some consultations may fit more than on type; choose the _best fit_.
-
 -   *Time (minutes)*. This can be an estimate.
-
--   *What is the question? Comments?*.
-A short phrase or two is enough. The purpose is to provide a broad overview of the type of questions, projects and topics we supported.
+-   *What is the question? Comments?*. A short phrase or two is enough. The purpose is to provide a broad overview of the type of questions, projects and topics we supported.
 
 ### Classes form
 Use the _Classes_ form to record information about your workshops. Only the _required_ fields need to be completed. Each workshop should be entered only once - if co-presenting, agree on who will enter the data.
