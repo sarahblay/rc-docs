@@ -74,7 +74,7 @@ After workshop:
 1. Allan Cho, Eka Grguric, Jeremy Buhler, Evan Thornberry will put the GAA's zoom link into the reminder email for the event.
 2. Sarah Blay and Brett Dimond will be online for all workshop times in case emails come through [research.commons@ubc.ca](mailto:research.commons@ubc.ca).
 
-# Breakout rooms (use optional)
+# Breakout rooms (Optional)
 Breakout rooms can be used in a variety of scenarios such as when some users are on MACs and others PCs (and the workflows are different) or if you need to give help to a certain individual while the workshop continues.
 1. Before using Breakout rooms in Zoom, it is recommended that you try this feature with your teaching partner to practice for smooth running in your actual workshop.
 2. Learn about Breakout room use here: <a href="https://support.zoom.us/hc/en-us/articles/206476093-Enabling-breakout-rooms" target="_blank">https://support.zoom.us/hc/en-us/articles/206476093-Enabling-breakout-rooms</a>.
