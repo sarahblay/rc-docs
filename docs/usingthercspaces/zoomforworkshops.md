@@ -61,12 +61,14 @@ After workshop:
 Before workshop:
 1. Orient yourself to the Zoom features so you can seamlessly explain them to your attendees. If this is your first Zoom workshop, work with your teaching partner to actually try the features before the workshop.  
    a. For a quick overview, see <a href="https://ubc-library-rc.github.io/intro-api/online.html" target="_blank">https://ubc-library-rc.github.io/intro-api/online.html</a>. 
-   b. 
+   b. See the Zoom guide for UBC students here:  <a href="https://keepteaching.ubc.ca/files/2020/04/zoom-student-guide.pdf" target="_blank">https://keepteaching.ubc.ca/files/2020/04/zoom-student-guide.pdf</a>    
+   
 During the workshop:
 2. You are presenting / teaching the workshop / webinar content. 
 3. Welcome attendees.
 4. Orient attendees to location of webinar website, slides, and other materials.
-5. Orient attendees to Zoom features.
+5. Orient attendees to Zoom features and let the students know they can enter questions in the chat that your partner will answer while you are presenting.    
+
 After workshop:
 6. Touch base with your teaching partner to debrief what worked, what didn't, areas to improve etc.
 
