@@ -43,8 +43,8 @@ In the teaching pair, or teaching group, you need to first figure out who will b
 ## Host responsibilities (Monitoring chat and keeping workshop running smoothly)
 Before workshop:
 1. Set up the Zoom link for your workshop:
-   a. Two weeks before your workshop, generate a Zoom link for your workshop at <a href="https://zoom.us/meeting" target="_blank">https://zoom.us/meeting</a>. Check with your Team Lead (Allan Cho, Eka Grguric, Jeremy Buhler, Evan Thornberry) to confirm the date and time.<br/>
-   b. Once created, send the Zoom link to your Team Lead so they can put it into the event for your participants.
+   1. Two weeks before your workshop, generate a Zoom link for your workshop at <a href="https://zoom.us/meeting" target="_blank">https://zoom.us/meeting</a>. Check with your Team Lead (Allan Cho, Eka Grguric, Jeremy Buhler, Evan Thornberry) to confirm the date and time.<br/>
+   2. Once created, send the Zoom link to your Team Lead so they can put it into the event for your participants.
 2. Read through everything you need to do during the workshop and make sure you will be ready to handle these items.
 During workshop:
 3. Add attendees from the waitroom into the main session.
@@ -60,8 +60,8 @@ After workshop:
 ## Co-host responsibilities (Presenter)
 Before workshop:
 1. Orient yourself to the Zoom features so you can seamlessly explain them to your attendees. If this is your first Zoom workshop, work with your teaching partner to actually try the features before the workshop.  
-   a. For a quick overview, see <a href="https://ubc-library-rc.github.io/intro-api/online.html" target="_blank">https://ubc-library-rc.github.io/intro-api/online.html</a>. 
-   b. See the Zoom guide for UBC students here:  <a href="https://keepteaching.ubc.ca/files/2020/04/zoom-student-guide.pdf" target="_blank">https://keepteaching.ubc.ca/files/2020/04/zoom-student-guide.pdf</a>    
+   1. For a quick overview, see <a href="https://ubc-library-rc.github.io/intro-api/online.html" target="_blank">https://ubc-library-rc.github.io/intro-api/online.html</a>. 
+   2. See the Zoom guide for UBC students here:  <a href="https://keepteaching.ubc.ca/files/2020/04/zoom-student-guide.pdf" target="_blank">https://keepteaching.ubc.ca/files/2020/04/zoom-student-guide.pdf</a>    
    
 During the workshop:
 2. You are presenting / teaching the workshop / webinar content. 
