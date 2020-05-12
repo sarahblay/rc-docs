@@ -5,13 +5,6 @@ parent: Workshop and consult setup
 nav_order: 1
 ---
 # Booking online workshops in LibCal
-Checklist for setting up Grad Student events in LibCal:
-- \[ ] Choose either Research Commons Events or Research Commons Events ONLINE template in LibCal.
-![](../../assets/images/picktemplate.png)
-- \[ ] If online, enter the Zoom Link in the reminder email.
-- \[ ] Add the unique survey link to the follow up email.
-- \[ ] Let UBC Library Research Commons coordinator know if it should appear in the Grad Community Calendar.
-
 1. Choose Research Commons Events ONLINE (if your workshop is in a physical room, choose Research Commons Events) template in LibCal.
 ![](../../assets/images/picktemplate.png)
 2. You need select No Location under Event Location. (Note this is temporary solution until the new functionality for Zoom is set up.)
