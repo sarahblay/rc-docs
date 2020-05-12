@@ -6,7 +6,8 @@ nav_order: 1
 ---
 # Booking workshops in LibCal
 Checklist for setting up Grad Student events in LibCal:
-- \[ ] Picked the UBC Library Research Commons Workshops Registration Form to capture faculty / unit and also subscriptions to RC newsletter.
+- \[ ] Choose either Research Commons Events or Research Commons Events ONLINE template in LibCal.
+![](../../assets/images/picktemplate.png)
 - \[ ] Tagged the workshop with Research Commons category.
 - \[ ] Let UBC Library Research Commons coordinator know if it should appear in the Grad Community Calendar.
 - \[ ] After workshop downloaded Excel sheet of new newsletter subscribers and submitted to UBC Library Research Commons Coordinator.
