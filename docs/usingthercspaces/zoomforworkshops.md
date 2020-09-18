@@ -13,15 +13,17 @@ Note: You will be prompted for your CWL and password.
 The Zoom account will be setup within about 2 business days. If you are waiting longer than this, please contact [research.commons@ubc.ca](mailto:research.commons@ubc.ca) email for follow up.    
 
 # Recommended Zoom settings
+For Research Commons workshops, ensure your meeting is Passcode protected and that you have a Waiting Room.  Discuss further customizations with your Team Lead.
+
 1. Make sure you have the following settings:
   * Meeting ID > Generate Automatically
-  * Video Host and Video Participant set to off.
-![](../../assets/images/zoomsettings1.png)    
-1. Also, make sure both of these are on:
-  * Mute participants upon entry
-  * Enable waiting room
-  ![](../../assets/images/zoomsettings2.png)   
-1. Enable the Waiting Room and also do a bug work around so that the Waiting Room messaging looks correct following these steps.
+  * Security > Passcode enabled and Waiting Room ENABLED
+  * Video Host and Video Participant set to OFF
+  * Audio set to BOTH
+  * Uncheck Enable Join before Host (so it is OFF)
+  * Check Mute participants upon entry (so it is ON)
+![](../../assets/images/recommendedsettingswithpasscode.jpg)
+1. For the Waiting Room, you also must do a bug work around so that the Waiting Room messaging looks correct following these steps.
   * In your Zoom settings (<a href="https://zoom.us/profile/setting" target="_blank">https://zoom.us/profile/setting</a>), enable Waiting Room. 
 ![](../../assets/images/waitingroomenabled.png)
   * Now the pencil icon to the right of Customize the title, logo, and description.
